@@ -9,7 +9,7 @@ export const Navbar = () => {
       <div className=" space-x-8  flex justify-center">
       <div className="text-white font-bold text-2xl ">Logo</div>
 
-        <ul className="flex space-x-6">
+        <ul className="flex space-x-8">
           <Link to='/' className="text-white hover:text-gray-300">Home</Link>
           <Link to='/Cart' href="#" className="text-white hover:text-gray-300">Add product</Link >
           <Link to='/Data' href="#" className="text-white hover:text-gray-300">data</Link >
