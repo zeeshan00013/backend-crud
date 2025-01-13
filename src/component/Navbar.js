@@ -15,7 +15,7 @@ export const Navbar = () => {
           <Link to='/Data' href="#" className="text-white hover:text-gray-200">data</Link >
           <Link to='/Images' href="#" className="text-white hover:text-gray-300">image</Link >
           <Link to='/Form' href="#" className="text-white hover:text-gray-400">form</Link >
-          <Link to='/edit' href="#" className="text-white hover:text-gray-200">edit</Link >
+          <Link to='/edit' href="#" className="text-white hover:text-gray-500">edit</Link >
 
 
 
