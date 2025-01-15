@@ -11,7 +11,7 @@ export const Navbar = () => {
 
         <ul className="flex space-x-8">
           <Link to='/' className="text-white hover:text-gray-300">Home</Link>
-          <Link to='/Cart' href="#" className="text-white hover:text-gray-1005">Add product</Link >
+          <Link to='/Cart' href="#" className="text-white hover:text-gray-5">Add product</Link >
           <Link to='/Data' href="#" className="text-white hover:text-gray-300">data</Link >
           <Link to='/Images' href="#" className="text-white hover:text-gray-400">image</Link >
           <Link to='/Form' href="#" className="text-white hover:text-gray-200">form</Link >
