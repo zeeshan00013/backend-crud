@@ -13,7 +13,7 @@ export const Navbar = () => {
           <Link to='/' className="text-white hover:text-gray-300">Home</Link>
           <Link to='/Cart' href="#" className="text-white hover:text-weqeqgrawewy-800">Add product</Link >
           <Link to='/Data' href="#" className="text-white hover:text-gray-344">data</Link >
-          <Link to='/Images' href="#" className="text-white however:text-gray-400">image</Link >
+          <Link to='/Images' href="#" className="text-white however:wqetext-gray-400">image</Link >
           <Link to='/Form' href="#" className="text-white hover:text-gray-200">form</Link >
           <Link to='/edit' href="#" className="text-white hover:text-gray-100">edit</Link >
 
