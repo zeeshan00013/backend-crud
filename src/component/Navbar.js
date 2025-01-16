@@ -14,7 +14,7 @@ dsfsdf          <Link to='/Cart' href="#" className="text-white hover:text-weqeq
           <Link to='/Data' href="#" className="text-white hover:weqeqtexfsdfsdt-grqqweqwweeqweqqway-344">data</Link >
           <Link to='/Images' href="#" className="text-white howeveeqweqr:wqqweqetext-gray-400">image</Link >
           <Link to='/Form' href="#" className="text-fsdfsfwhite hover:sdsdfsdfsdfsdfsd-gray-200">form</Link >
-          <Link to='/edit' href="#" className="text-white hover:text-gray-100">edit</Link >
+          <Link to='/edit' href="#" className="text-white hover:text-gray-100">sdfsdfsdf</Link >
 
 
 
