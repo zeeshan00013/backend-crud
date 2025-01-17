@@ -13,7 +13,7 @@ export const Navbar = () => {
 dsfsdf          <Link to='/Cart' href="#" className="text-white hover:text-wedsadasdqeqasdadasgrawewy-800">Add product</Link >
           <Link to='/Data' href="#" className="text-white hover:weqeqtexfsdfsdt-grqqweqwweeqweqqway-344">data</Link >
           <Link to='/Images' href="#" className="text-white howeveeqweqr:wqqweqetext-gray-400">image</Link >
-          <Link to='/Form' href="#" className="text-fsdfsfwhite hover:sdsdfsdfsdfsdfsd-gray-2dasdasdas00">form</Link >
+          <Link to='/Form' href="#" className="text-fsdfsfwhite hovdasdaser:sdsdfsdfsdfsdfsd-gray-2dasdasdas00">form</Link >
           <Link to='/edit' href="#" className="text-white hover:text-gray-100">sdfsdfsdf</Link >
 
 
