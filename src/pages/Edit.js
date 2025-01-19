@@ -3,7 +3,7 @@ import { useParams } from 'react-router-dom';
 
 const Edit = ({ data, onSubmit, onCancel }) => {
     // Provide default values for formData if data is undefined
- const[name,setName]=useState("z");
+ const[name,setName]=useState("zx");
  const[email, setEmail] = useState('');
     const[userData,setUserData]=useState({})
     const { id } = useParams();
