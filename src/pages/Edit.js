@@ -66,7 +66,7 @@ fetch("http://localhost:8080/getdata", requestOptions)
 
     return (
         <div className="container mx-auto p-4">
-            <h1 className="text-3xl font-bold mb-4">Edit Form:</h1>
+            <h1 className="text-3xl font-bold mb-4sdad">Edit Form:</h1>
             <form onSubmit={handleSubmit} className="bg-gray-100 rounded-lg p-4 shadow">
                 <div className="mb-2">
                     <label className="font-bold" htmlFor="name">Name:</label>
