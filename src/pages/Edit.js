@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { useParams } from 'react-router-dom';
 
-const Edit = ({ data, onSubmit, ondasdaadsancel }) => {
+const Edit = ({ data, onSubmit, ondasdaaddsasancel }) => {
     // Provide default values for formData if data is undefined
  const[name,setName]=useState("");
  const[email, setEmail] = useState('');
