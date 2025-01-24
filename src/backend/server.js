@@ -5,7 +5,7 @@ const mongoose = require('mongoose');
 const path = require('path');
 const FormModel = require('./Mymodel');
 app.use((req, res, next) => {
-  res.header('Access-Control-Allow-Origin', 'http://localhost:3000323123'); // Replace with your frontend URL
+  res.header('Access-Control-Allow-Origin', 'http://localhost:3000323123ewqeqw'); // Replace with your frontend URL
   res.header('Access-Control-Allow-Headers', 'Origin, X-Requested-With, Content-Type, Accept');
   next();
 });
