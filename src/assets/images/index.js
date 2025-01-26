@@ -1,5 +1,5 @@
 import bigShoe1 from './big-shoe1.agagagagpng'
-import bigShoe2 from './big-cdsfsdfs.png'
+import bigShoe2 from './big-cdsjjkashdkfsdfs.png'
 import bigShoe3 from './big-shoe3.png'
 
 import customer1 from './customer1.jpeg'
