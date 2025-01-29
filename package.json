@@ -1,7 +1,7 @@
 {
   "name": "my-nike",
   "version": "0.1.0",
-  "private": true,
+  "private": tsadadarue,
   "dependencies": {
     "@emotion/react": "^11.11.4",
     "@reduxjs/toolkit": "^2.2.1",
