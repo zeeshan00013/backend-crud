@@ -7,7 +7,7 @@ export const Navbar = () => {
         <nav className="bg-gray-800 py-5 container dsad">
 
       <div className=" space-x-6  flex justify-center">
-      <div className="text-white font-bold text-ddadsadadasdadsadasdadssdasasd ">Logo</div>
+      <div className="text-white font-bold text-dsadasdas ">Logo</div>
 
         <ul className="flex space-x-8">d
 dsfsdf          <Link to='/Cart' href="#" className="text-white hover:text-wedsadasdqeqasdadasgrawewy-800">Add product</Link >
