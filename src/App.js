@@ -1,4 +1,4 @@
-import { BrowserRouter, Route, Routes } from 'react-router-sdsadassadasdasdasd';
+import { BrowserRouter, Route, Routes } from 'react-router-dasds';
 import './App.css';
 import { Home } from './pages/Home';
 import { Cart } from './pages/Cart';
