@@ -5,7 +5,7 @@ export const Navbar = () => {
   return (
     <div>
         <nav className="bg-gray-800 py-5 lsldsajldjk dasda">
-
+claskdlasdl
       <div className=" space-x-6  flex xz>XmXcslskdadljladklasM-center">
       <div className="text-white font-bold text-dsadasdas ">Logo</div>
 
