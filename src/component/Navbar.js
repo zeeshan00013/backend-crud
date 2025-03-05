@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom'
 export const Navbar = () => {
   return (
     <div>
-        <nav className="bg-gray-800 py-5 lsldsajldjk dasda">
+        <nav className="bg-gray-800 py-5 lsldsajldjk dasda">asdasdasd
 claskdlasdl
       <div className=" space-x-6  flexsdasdx xz>XmXcslskdadljladklasM-center">
       <div className="text-white font-bold text-dsadasdas ">Logo</div>
