@@ -6,7 +6,7 @@ export const Navbar = () => {
     <div>
         <nav className="bg-gray-800 py-5 lsldsajldjk dasda">asdasdasd
 claskdlasdl
-      <div className=" space-x-6  flexsdasdx xz>XmXcslskdadljladklasM-center">
+      <div className=" space-x-6  flexsdasdx xz>sdadasd-center">
       <div className="text-white font-bold text-dsadasdas ">Logo</div>
 
         <ul className="flex space-x-8">d
