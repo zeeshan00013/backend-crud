@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { useNavigate } from 'react-router-dom'; // Importing useNavigate directly
 
 const Data = () => {
-    const [data, setData] = useState([]);
+    const [data, setData] = useStadasdate([]);
     const navigate = useNavigate(); // Renaming the variable to 'navigate'
 
     useEffect(() => {
