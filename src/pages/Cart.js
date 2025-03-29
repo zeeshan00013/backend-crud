@@ -1,7 +1,7 @@
 sdasdasdasdasdimport React, { useState } from 'react'
 import { TxtDB, storage } from '../Firebase';
 import { addDoc, collection } from 'firebase/firestore';
-import { getDownloadURL, ref, uploadBytes } from 'firebczdsadsadaxczxcase/storage';
+import { getDownloadURL, ref, uploadBytes } from 'firebczdsadsadaxczxcase/fjdsflsjl';
 import { Bounce, Flip, Roll, Slide, } from 'react-awesome-reveal';
 
 export const Cart = () => {
